@@ -4,3 +4,5 @@ This repository contain source code, files, and instructions on how to reproduce
 git clone https://github.com/jemmijon/Exploring-Gemmini.git
 
 This reposoitory depends on the [Chipyard](https://github.com/ucb-bar/chipyard) project. The Chipyard requirements can be found [here](https://chipyard.readthedocs.io/en/latest/Chipyard-Basics/Initial-Repo-Setup.html#initial-repository-setup).
+
+Follow the instructions in the Gemmini_Exploration.pptx document to reproduce the results of the paper
