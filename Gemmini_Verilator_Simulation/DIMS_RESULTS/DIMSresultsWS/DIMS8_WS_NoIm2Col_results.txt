@@ -1,0 +1,45 @@
+DIMENSION for WS (DIM) =  8
+MAT_DIM_I, MAT_DIM_J, MAT_DIM_K: 8 8 8
+Starting slow CPU matmul
+Cycles taken: 7235
+Starting gemmini matmul
+Cycles taken: 388
+[UART] UART0 is here (stdin/stdout).
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 33975
+DIMENSION for WS (DIM) =  8
+MAT_DIM_I, MAT_DIM_J, MAT_DIM_K: 2 2 2
+Starting slow CPU matmul
+Cycles taken: 154
+Starting gemmini matmul
+Cycles taken: 329
+[UART] UART0 is here (stdin/stdout).
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 42291
+DIMENSION for WS (DIM) =  8
+MAT_DIM_I, MAT_DIM_J, MAT_DIM_K: 16 16 16
+Starting slow CPU matmul
+Cycles taken: 53684
+Starting gemmini matmul
+Cycles taken: 500
+[UART] UART0 is here (stdin/stdout).
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 34273
+DIMENSION for WS (DIM) =  8
+MAT_DIM_I, MAT_DIM_J, MAT_DIM_K: 32 32 32
+Starting slow CPU matmul
+Cycles taken: 410985
+Starting gemmini matmul
+Cycles taken: 1242
+[UART] UART0 is here (stdin/stdout).
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 37591
+DIMENSION for WS (DIM) =  8
+MAT_DIM_I, MAT_DIM_J, MAT_DIM_K: 128 128 128
+Starting slow CPU matmul
+Cycles taken: 26842986
+Starting gemmini matmul
+Cycles taken: 36228
+[UART] UART0 is here (stdin/stdout).
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 46285
